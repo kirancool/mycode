@@ -1,0 +1,5 @@
+1) @PathParam annotation may be used on the method parameter of a request method.
+2) @Path annotation’s value is a relative URI path indicating where the Java class will be hosted: for example, /helloworld.
+3) @QueryParam annotation is a type of parameter that you can extract for use in your resource class. Query parameters are extracted from the request URI query parameters.
+4) @Consumes annotation is used to specify the MIME media types of representations a resource can consume that were sent by the client.
+5) @Produces annotation is used to specify the MIME media types of representations a resource can produce and send back to the client: for example, "text/plain".
